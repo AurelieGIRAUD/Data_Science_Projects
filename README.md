@@ -18,6 +18,7 @@ For a better UX experience, please check out website.
 1. [Logistic Regression](https://github.com/AurelieGIRAUD/Logistic_Regression) - Using a labelled dataset containing the characteristics of genuine banknotes, create a counterfeit banknote detection algorithm based on Logistic Regression.
 2. [Clustering](https://github.com/AurelieGIRAUD/Customer_segmentation) - Segmentation of customers based on their credit card utilization for improving Bank marketing strategy, using various clustering algorithm: K-Means, SpectralClustering, AgglomerativeClustering, DBSCAN and K-Medoid.
 3. [ANOVA](https://github.com/AurelieGIRAUD/Revenue_Predictions) - Predict the revenue of customer's children in order to target potential future customers, based on ANOVA and multiple linear regression models.
+4. [Linear Regression](https://github.com/AurelieGIRAUD/data_science_portfolio/tree/main/Linear_Regression) - Describes how to apply a Multiple Linear Regression Model using Scipy and how to perfrom regression diagnosis to tackle uncertainties.
 
 
 ## ☕️ Support & Gratitude
