@@ -10,8 +10,8 @@ For a better UX experience, please check out website.
 
 ## Contents
 
-### Data Analysis and Visualisation
-### Machine Learning
+#### Data Analysis and Visualisation
+#### Machine Learning
 
 
 ## Support & Gratitude
