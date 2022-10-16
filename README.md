@@ -16,6 +16,7 @@ For a better UX experience, please check out website.
 #### Machine Learning Applications
 
 1. [Logistic Regression](https://github.com/AurelieGIRAUD/Logistic_Regression) - Using a labelled dataset containing the characteristics of genuine banknotes, create a counterfeit banknote detection algorithm based on Logistic Regression.
+2. [Clustering](https://github.com/AurelieGIRAUD/Customer_segmentation) - Segmentation of customers based on their credit card utilization for improving Bank marketing strategy, using various clustering algorithm: K-Means, SpectralClustering, AgglomerativeClustering, DBSCAN and K-Medoid.
 
 
 ## ☕️ Support & Gratitude
