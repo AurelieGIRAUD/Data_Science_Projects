@@ -1,0 +1,43 @@
+# Function to display the loading plots for the PCs
+def display_circles(pcs, n_comp, pca, axis_ranks, labels=None, label_rotation=0, lims=None):
+    for d1, d2 in axis_ranks: 
+        if d2 < n_comp:
+
+            fig, ax = plt.subplots(figsize=(7,6))
+
+            # Settings Plot Limits
+            if lims is not None :
+                xmin, xmax, ymin, ymax = lims
+            elif pcs.shape[1] < 30 :
+                xmin, xmax, ymin, ymax = -1, 1, -1, 1
+            else :
+                xmin, xmax, ymin, ymax = min(pcs[d1,:]), max(pcs[d1,:]), min(pcs[d2,:]), max(pcs[d2,:])
+
+            # Display Arrows
+            plt.quiver(np.zeros(pcs.shape[1]), np.zeros(pcs.shape[1]),pcs[d1,:], pcs[d2,:], angles='xy', scale_units='xy', scale=1, color="grey")
+                #(https://matplotlib.org/api/_as_gen/matplotlib.pyplot.quiver.html)
+            
+            # Labelling variables  
+            if labels is not None:  
+                for i,(x, y) in enumerate(pcs[[d1,d2]].T):
+                    if x >= xmin and x <= xmax and y >= ymin and y <= ymax :
+                        plt.text(x, y, labels[i], fontsize='9', ha='center', va='center', rotation=label_rotation, color="black", alpha=0.5)
+            
+            # Display circles
+            circle = plt.Circle((0,0), 1, facecolor='none', edgecolor='b')
+            plt.gca().add_artist(circle)
+            plt.xlim(xmin, xmax)
+            plt.ylim(ymin, ymax)
+        
+            # Display horizontal & vertical lines
+            plt.plot([-1, 1], [0, 0], color='grey', ls='--')
+            plt.plot([0, 0], [-1, 1], color='grey', ls='--')
+
+            # Labelling axis
+            plt.xlabel('F{} ({}%)'.format(d1+1, round(100*pca.explained_variance_ratio_[d1],1)))
+            plt.ylabel('F{} ({}%)'.format(d2+1, round(100*pca.explained_variance_ratio_[d2],1)))
+            
+            # Labelling plot
+            plt.title("Loading Plot (F{} et F{})".format(d1+1, d2+1))
+            plt.savefig(Path.cwd()/'Loading_Plot.png')
+            plt.show(block=False)        
