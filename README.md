@@ -11,7 +11,7 @@ For a better UX experience, please check out website.
 3. [ANOVA](https://github.com/AurelieGIRAUD/Revenue_Predictions) - Predict the revenue of customer's children in order to target potential future customers, based on ANOVA and multiple linear regression models.
 4. [Linear Regression](https://github.com/AurelieGIRAUD/data_science_portfolio/tree/main/Linear_Regression) - Describes how to apply a Multiple Linear Regression Model using Scipy and how to perfrom regression diagnosis to tackle uncertainties.
 
-## My-Medium-Blogs
+## My Medium Blogs
 All of my medium blogs with friend links attached. This gives everyone free access to my stories without a Medium subscription and have already read all the complimentary stories for the month.
 
 
