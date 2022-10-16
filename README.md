@@ -4,17 +4,17 @@ The projects are presented in the form of Jupyter notebooks and scripts. Data us
 For a better UX experience, please check out website.
 
 
-## Before to start
+## ✅ Before to start
 1. Install dependencies using requirements.txt.
 2. Run notebooks as usual by using a Jupyter notebook server, Vscode etc.
 
-## Contents
+## 📒 Contents
 
 #### Data Analysis and Visualisation
 #### Machine Learning
 
 
-## Support & Gratitude
+## ☕️ Support & Gratitude
 If you found here some inspiration, ideas and help, would you be so kind to share some gratitude and [buy me a coffee ❤️ ? ](https://www.buymeacoffee.com/aggiraudau0)
 
 
