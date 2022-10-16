@@ -15,7 +15,7 @@ For a better UX experience, please check out website.
 
 #### Machine Learning Applications
 
-1.[Logistic Regression](https://github.com/AurelieGIRAUD/Logistic_Regression) - Using a labelled dataset containing the characteristics of genuine banknotes, create a counterfeit banknote detection algorithm based on Logistic Regression.
+1. [Logistic Regression](https://github.com/AurelieGIRAUD/Logistic_Regression) - Using a labelled dataset containing the characteristics of genuine banknotes, create a counterfeit banknote detection algorithm based on Logistic Regression.
 
 
 ## ☕️ Support & Gratitude
