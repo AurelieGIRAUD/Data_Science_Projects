@@ -4,7 +4,7 @@ The projects are presented in the form of Jupyter notebooks and scripts. Data us
 For a better UX experience, please check out website.
 
 
-## ✅ Before to start
+## Before to start
 1. Install dependencies using requirements.txt.
 2. Run notebooks as usual by using a Jupyter notebook server, Vscode etc.
 
