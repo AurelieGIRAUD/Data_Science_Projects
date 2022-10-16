@@ -32,8 +32,6 @@ All of my medium blogs with friend links attached. This gives everyone free acce
 8. [Random Forest: what you need to know before starting](https://towardsdatascience.com/quick-intro-to-random-forest-3cb5006868d8?sk=9d1a49e3f5f1ad350f425344c0f5c335)
 
 
-✅ For more such blogs, feel free to visit my medium profile https://medium.com/@agiraud
-
 
 
 ## ☕️ Support & Gratitude
