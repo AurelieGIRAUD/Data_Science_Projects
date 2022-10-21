@@ -4,7 +4,7 @@
 
 Most firms that think they want advanced AI/ML really just need linear regression on cleaned-up data [Robin Hanson]
 
-This repository describes how to apply a Multiple Linear Regression Model using Scipy and how to perfrom regression diagnosis to tackle uncertainties. 
+This repository describes how to apply a Multiple Linear Regression Model using Scipy and how to perform regression diagnosis to tackle uncertainties. 
 The logic and method are detailled in the following article: https://towardsdatascience.com/perform-regression-diagnostics-and-tackle-uncertainties-of-linear-models-1372a03b1f56 
 
 ## Dataset
