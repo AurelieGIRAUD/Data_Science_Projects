@@ -2,19 +2,19 @@
 
 ### ✅ Business Case
 
-In this project, we are trying to predict sales revenues based on the budget invested into social media - Youtube, Facebook and some newspapers, using a multiple linear regression. The main focus of this project is to display how to validate the key assumptions of such a model. 
+In this project, we are trying to predict sales revenues based on the budget invested into social media - _Youtube, Facebook and some newspapers_, using a multiple linear regression. The main focus of this project is to display **how to validate the key assumptions of such a model**. 
 
-#### 📉 Dataset
+### 📉 Dataset
 
 The dataset can be found on [Kaggle](https://www.kaggle.com/fayejavad/marketing-linear-multiple-regression).
 
 It describes the advertising experiment between Social Media Budget and Sales (in Thousands $ ) and hold 200 experiments.
 
-#### 📒 Repository
+### 📒 Repository
 The repository is available on [GitHub](https://github.com/AurelieGIRAUD/Data_Science_Projects/tree/main/Linear_Regression). It describes how to apply a Multiple Linear Regression Model using Scipy and how to perform regression diagnosis to validate the model.
 
 
-## Context
+### Context
 
 _Most firms that think they want advanced AI/ML really just need linear regression on cleaned-up data._ [Robin Hanson]
 
