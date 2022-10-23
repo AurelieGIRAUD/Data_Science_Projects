@@ -31,5 +31,5 @@ Means that the residuals have constant variance no matter the level of the depen
 Residuals must be totally free of autocorrelation.
 
 
-#### The 5th trouble maker
+#### ... And Multicollinearity
 For multiple linear regression, you also need to check the absence of multicollinearity. Multicollinearity refers to when two predictors (or more) are providing the same information about the response variable. 
