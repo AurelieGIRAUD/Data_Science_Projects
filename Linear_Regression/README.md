@@ -15,7 +15,7 @@ It describes the advertising experiment between Social Media Budget and Sales (i
 _Most firms that think they want advanced AI/ML really just need linear regression on cleaned-up data._ [Robin Hanson]
 
 
-There are four principal assumptions which support using a linear regression model for the purpose of inference or prediction:
+There are four principal assumptions which support using a linear regression model for the purpose of inference or prediction, which we need to verify in order to validate the model.
 
 #### 1. Linearity
 We must have a linear relationship between our features and responses. This is required for our estimator and predictions to be unbiased.
