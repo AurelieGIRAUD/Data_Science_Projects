@@ -1,14 +1,14 @@
 # Detect counterfeit banknotes with logistic regression
 
+### ✅ Business Case
+
+In this project, we are creating a model to detect fake banknotes using a Logistic Regression algorithm and labelled data containing the characteristics of genuine banknotes. 
+
+
+### 📉 Dataset
+
 This project was completed as a part of the [Data Analyst nanodegree](https://openclassrooms.com/en/dashboard/paths) displayed by Openclassrooms. 
-
-
-_At OpenClassrooms, the learning process is project-driven to ensure proficiency and get some hands-on experiences. 
-The Data Analyst degree include 9 projects to get through all the fundamentals of the Data Analyst Role._
-
-## 🎯 Purpose
-
-Using a labelled dataset containing the characteristics of genuine banknotes, create a counterfeit banknote detection algorithm based on Logistic Regression.
+The dataset is therefore provided by the platform as a part of the program.
   
 
 ## 📒 Contents
@@ -18,6 +18,7 @@ This project includes the following steps:
   1) Exploratory Data Analysis (EDA)
   
   - Univariate and Bivariate Analysis. 
+  - Handling outliers
   - Data Visualizations supported by MatplotLib.
   
   2) Principal Component Analysis (PCA)
