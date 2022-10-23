@@ -1,29 +1,27 @@
+# Portfolio
+
+
+This portfolio is a compilation of projects I created for academic purpose and self learning. My focus is to deliver inspirational solutions to solve real-life business cases using data analysis and machine learning algorithms.
+The projects are presented in the form of Jupyter notebooks and scripts. 
+
+✋ Data used in the projects are for demonstration purposes only.
+✅ For a better UX experience, please check out [my GitHub page](https://aureliegiraud.github.io/).
+
 # Machine Learning Applications
-This portfolio is a compilation of projects which I created for data analysis or for exploration of machine learning algorithms - for academic purpose and self learning. My focus is to deliver inspirational solutions to solve real-life business cases.
-The projects are presented in the form of Jupyter notebooks and scripts. Data used in the projects are for demonstration purposes only.
-For a better UX experience, please check out website.
-
-
-## Fraud Detection
-
-
-1. [Logistic Regression](https://github.com/AurelieGIRAUD/Data_Science_Projects/tree/main/Logistic_Regression) - Using a labelled dataset containing the characteristics of genuine banknotes, create a counterfeit banknote detection algorithm based on Logistic Regression.
-
-## Clustering
-
-
-2. [Clustering](https://github.com/AurelieGIRAUD/Data_Science_Projects/tree/main/Clustering) - Segmentation of customers based on their credit card utilization for improving Bank marketing strategy, using various clustering algorithm: K-Means, SpectralClustering, AgglomerativeClustering, DBSCAN and K-Medoid.
-
-## Predictive Analytics
-
-
-3. [ANOVA](https://github.com/AurelieGIRAUD/Data_Science_Projects/tree/main/ANOVA) - Predict the revenue of customer's children in order to target potential future customers, based on ANOVA and multiple linear regression models.
-
 
 ## Regression Analysis
 
 
-4. [Linear Regression](https://github.com/AurelieGIRAUD/Data_Science_Projects/tree/main/Linear_Regression) - Describes how to apply a Multiple Linear Regression Model using Scipy and how to perform regression diagnosis to tackle uncertainties.
+- [Multiple Linear Regression apply to a Marketing Case Study](https://github.com/AurelieGIRAUD/Data_Science_Projects/tree/main/Linear_Regression) - Describes how to apply a Multiple Linear Regression Model using Scipy and how to perform regression diagnosis to tackle uncertainties.
+- [Fraud Detection with Logistic Regression](https://github.com/AurelieGIRAUD/Data_Science_Projects/tree/main/Logistic_Regression) - Using a labelled dataset containing the characteristics of genuine banknotes, create a counterfeit banknote detection algorithm based on Logistic Regression.
+- [Revenue Prediction with Linear Model and ANOVA](https://github.com/AurelieGIRAUD/Data_Science_Projects/tree/main/ANOVA) - Predict the revenue of customer's children in order to target potential future customers, based on ANOVA and multiple linear regression models.
+
+## Clustering
+
+
+- [Customer Segmentation based on Unsupervised Clustering Algorithms](https://github.com/AurelieGIRAUD/Data_Science_Projects/tree/main/Clustering) - Segmentation of customers based on their credit card utilization for improving Bank marketing strategy, using various clustering algorithm: K-Means, SpectralClustering, AgglomerativeClustering, DBSCAN and K-Medoid.
+
+
 
 
 
