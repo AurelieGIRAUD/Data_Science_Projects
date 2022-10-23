@@ -14,7 +14,7 @@ It describes the advertising experiment between Social Media Budget and Sales (i
 The repository is available on [GitHub](https://github.com/AurelieGIRAUD/Data_Science_Projects/tree/main/Linear_Regression). It describes how to apply a Multiple Linear Regression Model using Scipy and how to perform regression diagnosis to validate the model.
 
 
-### Context
+## Context
 
 _Most firms that think they want advanced AI/ML really just need linear regression on cleaned-up data._ [Robin Hanson]
 
