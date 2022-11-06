@@ -8,30 +8,23 @@ The Data Analyst degree include 9 projects to get through all the fundamentals o
 
 ## 🎯 Purpose
 
-Predict the revenue of customer's children in order to target potential future customers.
+Target future relevant customers among the current portfolio using the revenue data of their parents.
   
 
 ## 📒 Contents
   
 This project includes the following steps:
 
-  1) Collection & Exploration
+ 1) Collection & Exploration
 
-Collect, Summarize and Discuss the relevance of the Data Collected for the Modeling.
-Here is what we need to perform the modeling:
+In that step, we collect, summarize and discuss the relevance of the data collected for the modeling.
 
-- World Income Distribution: This database is mainly composed of studies carried out at the national level for a good number of countries, and contains the income distributions of the populations concerned.
-- Gini Index from the World Bank: https://data.worldbank.org/indicator/SI.POV.GINI
-- Number of inhabitants of each country present in the data.
 
 2) Features Engineering
 
-Using the income generational mobility coefficient and the percentiles for each country, calculate the conditional probabilities between the class of parents and class of child. In other words, the probability of a child to be in a certain class of incomes depending in the class of income of his parents.
+Here we are applying conditional probabilities for segmenting the customer portfolio into class of revenues. 
 
-4) Data Preprocessing
 
-Using conditional probabilities create a synthetic and representative dataset. 
+3) Modelling 
 
-5) Modelling 
-
-Predict children's income using ANOVA-one way and Multiple Linear Regressions.
+Finally, using ANOVA-one way and a Multiple Linear Regressions model, we are predicting the customer's revenues.
