@@ -14,7 +14,7 @@ The projects are presented in the form of Jupyter notebooks and scripts.
 
 - [Multiple Linear Regression apply to a Marketing Case Study](https://github.com/AurelieGIRAUD/Data_Science_Projects/tree/main/Linear_Regression) - Describes how to apply a Multiple Linear Regression Model using Scipy and how to perform regression diagnosis to tackle uncertainties.
 - [Fraud Detection with Logistic Regression](https://github.com/AurelieGIRAUD/Data_Science_Projects/tree/main/Logistic_Regression) - Using a labelled dataset containing the characteristics of genuine banknotes, create a counterfeit banknote detection algorithm based on Logistic Regression.
-- [Revenue Prediction with Linear Model and ANOVA](https://github.com/AurelieGIRAUD/Data_Science_Projects/tree/main/ANOVA) - Predict the revenue of customer's children in order to target potential future customers, based on ANOVA and multiple linear regression models.
+- [Revenue Prediction with Linear Model and ANOVA](https://github.com/AurelieGIRAUD/Data_Science_Projects/tree/main/ANOVA) - An international bank hopes to find new customers. From existing data, build a model to analyze and predict the income of prospective clients.
 
 ## Clustering
 
