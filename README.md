@@ -23,7 +23,7 @@ The projects are presented in the form of Jupyter notebooks and scripts.
 
 
 # Data Pre-processing
-- Cleaning data with Fuzzy Wuzzy and Tkinter
+- [Cleaning data with Fuzzy Wuzzy and Tkinter](https://github.com/AurelieGIRAUD/Data_Science_Projects/blob/main/Cleaning_Fuzzy_TKinter.ipynb) - In a dataset with job application and recruiting data, with multiples columns corresponding to the same skills, we use Fuzzy Wuzzy to match similar names and Tkinter to improve the process of renaming and cleaning the whole set. We reduce by 40% the amount of data due to duplicates and mispelled values.
 
 
 
