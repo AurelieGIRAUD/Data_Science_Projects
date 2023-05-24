@@ -22,6 +22,10 @@ The projects are presented in the form of Jupyter notebooks and scripts.
 - [Customer Segmentation based on Unsupervised Clustering Algorithms](https://github.com/AurelieGIRAUD/Data_Science_Projects/tree/main/Clustering) - Segmentation of customers based on their credit card utilization for improving Bank marketing strategy, using various clustering algorithm: K-Means, SpectralClustering, AgglomerativeClustering, DBSCAN and K-Medoid.
 
 
+# Data Pre-processing
+- Cleaning data with Fuzzy Wuzzy and Tkinter
+
+
 
 
 
