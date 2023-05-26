@@ -5,7 +5,6 @@ This portfolio is a compilation of projects I created for academic purpose and s
 The projects are presented in the form of Jupyter notebooks and scripts. 
 
 ✋ Data used in the projects are for demonstration purposes only.
-✅ For a better UX experience, please check out [my GitHub page](https://aureliegiraud.github.io/).
 
 # Machine Learning Applications
 
@@ -23,7 +22,7 @@ The projects are presented in the form of Jupyter notebooks and scripts.
 
 
 # Data Pre-processing
-- [Cleaning data with Fuzzy Wuzzy and Tkinter](https://github.com/AurelieGIRAUD/Data_Science_Projects/blob/main/Cleaning_Fuzzy_TKinter.ipynb) - In a dataset with job application and recruiting data, with multiples columns corresponding to the same skills, we use Fuzzy Wuzzy to match similar names and Tkinter to improve the process of renaming and cleaning the whole set. We reduce by 40% the amount of data due to duplicates and mispelled values.
+- [Cleaning data with Fuzzy Wuzzy and Tkinter](https://github.com/AurelieGIRAUD/Data_Science_Projects/blob/tree/main/Cleaning_Fuzzy_TKinter.ipynb) - In a dataset with job application and recruiting data, with multiples columns corresponding to the same skills, we use Fuzzy Wuzzy to match similar names and Tkinter to improve the process of renaming and cleaning the whole set. We reduce by 40% the amount of data due to duplicates and mispelled values.
 
 
 
